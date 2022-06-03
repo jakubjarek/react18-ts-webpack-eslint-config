@@ -1,0 +1,9 @@
+node_modules/
+build/
+.husky/
+.eslintrc.js
+babel.config.js
+prettier.config.js
+tsconfig.json
+package.json
+webpack.config.js
